@@ -1,0 +1,17 @@
+
+{
+  "name": "asistencia-sanitaria",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "mysql2": "^3.24.4",
+    "sequelize": "^6.37.8"
+  }
+}
